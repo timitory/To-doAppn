@@ -12,9 +12,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #463c7b;
+  background-color: purple;
   background-position: center;
   background-size: cover;
+}
+img{
+  height: 200px;
+  width: 200px;
 }
 
 .container {
